@@ -95,7 +95,7 @@ analytics:
 # Site Author
 author:
   name             : "김진온"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/로고2.jpg"
   bio              : "only, irene"
   location         : "대한민국, 용인 산골짜기학교"
   email            : "21-21042@hafs.hs.kr"
